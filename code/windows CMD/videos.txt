@@ -1,0 +1,10 @@
+1)https://youtu.be/MBBWVgE0ewk
+the first part of the tutorial talking about how cmd works and why you need it.
+2)https://youtu.be/7ABkcHLdG_A
+second part of the tutorial talking about how to use the cmd to move to diferent directorys and check what file is in one directory.
+3)https://youtu.be/LHhPvq5R0hA
+talking about how to open files and more about some rules.
+4)https://youtu.be/ODk8CoSLofA
+how to make dirctorys and how to remove dirctorys.
+5)https://youtu.be/8HK1BsRprt0
+talks about the path variables and how it works.

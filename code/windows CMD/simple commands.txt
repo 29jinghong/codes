@@ -1,0 +1,19 @@
+commands:
+cd <dir name>            - to move to that directory
+dir<dir name>            - to check what file is in this directory(or simply not add any thing to check the current dirctory)
+dir /a                   - this command shows all the hidden file.
+cls                      - clears the cmd screen.
+dir *<dir name>          - only shows the files that end with(dir name).
+cd ..                    - goes up a dir.
+(command) /?             - add /? shows you what the (command) does.
+mkdir<dir name>          - makes a drictory thats named(dir name).
+rmdir<dir name>          - delets the drictory named(dir name).
+rmdir /s <dir name>      - force delet the dirctory named(dir name) even if there is still files stored in it.
+excute prgram <file name>- you can excute the file useing(excute prgram)
+rules:
+if it doesent have the <DIR> tag it means its not a dirctory its a application or a file that stores stuff and the number next to it its how much bites it takes.
+if you press up arrow it goes to the last comand you typed
+if you open the file in cmd it opens it with the last program you use to open that(defalt prgram).
+rmdir its only used when there is noting in the dirctory.
+every time you type in a path to some thing in cmd if there is space in the name you would need to add double quations around it, ex("code file").
+if you try to run a prgram that does not exist in the current dirctory the windows cmd will then look into the path and scan throw each file under the path and run if it founded the program.
