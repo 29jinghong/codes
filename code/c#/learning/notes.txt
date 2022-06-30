@@ -1,0 +1,11 @@
+rules:
+alwast ; at the end of each line
+
+varibles: 
+string  - store many charecter
+int     - store numbers
+char    - only can store 1 charecter
+float   - can store decimals but the least acurate.
+double  - can store decimals more acurate than float.
+decimal - the most acurate way of storing decimals.
+bool    - only accept true or false.
